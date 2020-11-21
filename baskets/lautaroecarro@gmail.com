@@ -1,1 +1,1 @@
-{"id":"45c09ece-6a55-4807-9f5c-3b327d798421","products":[{"productId":"5faa2472de47d677af6a22a4","variants":[{"name":"Color","value":"Rojo"}]},{"productId":"5faa2472de47d677af6a22a4","variants":[{"name":"Color","value":"Rojo"}]},{"productId":"5faa2472de47d677af6a22a4","variants":[{"name":"Color","value":"Rojo"}]}],"customerEmail":"lautaroecarro@gmail.com"}
+{"id":"45c09ece-6a55-4807-9f5c-3b327d798421","products":[],"customerEmail":"lautaroecarro@gmail.com"}
