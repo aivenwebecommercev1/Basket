@@ -1,1 +1,1 @@
-{"id":"a565b857-374d-4ff2-8010-a1c705501616","products":[],"customerEmail":"lautaroecarro@gmail.com"}
+{"id":"a565b857-374d-4ff2-8010-a1c705501616","products":[{"productId":"5faa2472de47d677af6a22a4","variants":[{"name":"Color","value":"Rojo"}],"quantity":2}],"customerEmail":"lautaroecarro@gmail.com"}
